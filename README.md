@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankanroy92in
-- 👀 I’m interested in JAVA, Python, Data Science and Automation
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Python and Automation
+- 👀 I’m interested in Python, Data Science and Automation
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Python and Machine Learning
 - 📫 How to reach me www.linkedin.com/in/ankanroy02
 
 <!---
